@@ -168,10 +168,23 @@ Add a slug to `data/candidates.json` and run
 Ashby, Workday, etc. to find which one hosts that company.
 `run.py discover` grows the list automatically from public datasets.
 
+## Your private copy on GitHub
+
+https://github.com/Sue11221/internship-tracker (private) is the git remote
+`origin`. To back up your changes:
+
+    git add -A
+    git commit -m "what changed"
+    git push
+
+GitHub Actions are turned off on it, so the original author's scheduled
+workflows never run on your account. Local-only files stay off GitHub (see
+`.gitignore`): the applied log, today's list, the daily Excel files, logs and
+`email_config.json`. The email password is never in any file.
+
 ## Keeping up with the author's changes
 
-The original repo is the git remote `upstream`:
+The original public repo is the git remote `upstream`:
 
     git pull upstream main
-
-If you fork it on GitHub later, add your fork as `origin`.
+    git push
