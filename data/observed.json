@@ -24,6 +24,13 @@
       "workday:abb:/job/Milpitas-California-USA/Physical-AI-Robotics-Simulation-Intern--Fall-2026_JR00044848-1",
       "workday:abb:/job/USA-NC-Cary/AI---Data-Scientist-AI-Intern---Fall-2026_JR00036225"
      ]
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-24",
+     "role_ids": [
+      "workday:abb:/job/USA-NC-Cary/IS-Common-Infrastructure-Intern--Summer-2027_JR00047125"
+     ],
+     "count": 1
     }
    }
   },
@@ -41,9 +48,16 @@
       "smartrecruiters:AbbVie:3743990014860456",
       "smartrecruiters:AbbVie:3743990014896329",
       "smartrecruiters:AbbVie:3743990014900496",
-      "smartrecruiters:AbbVie:3743990014900536"
+      "smartrecruiters:AbbVie:3743990014900536",
+      "smartrecruiters:AbbVie:3743990015679246",
+      "smartrecruiters:AbbVie:3743990015679346",
+      "smartrecruiters:AbbVie:3743990015679386",
+      "smartrecruiters:AbbVie:3743990015684476",
+      "smartrecruiters:AbbVie:3743990015684516",
+      "smartrecruiters:AbbVie:3743990015684556",
+      "smartrecruiters:AbbVie:3743990015684626"
      ],
-     "count": 9
+     "count": 16
     }
    }
   },
@@ -70,6 +84,44 @@
       "greenhouse:advancedspace:4333179009"
      ],
      "count": 3
+    }
+   }
+  },
+  "aecom": {
+   "name": "AECOM",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-30",
+     "role_ids": [
+      "smartrecruiters:AECOM2:744000152725659"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "aerospace": {
+   "name": "The Aerospace Corporation",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-22",
+     "role_ids": [
+      "workday:aero:/job/Chantilly-VA/XMLNAME-2027-Software-Implementation-and-Integration-Undergrad-Cleared-Intern_R016740",
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753",
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429"
+     ],
+     "count": 3
+    }
+   }
+  },
+  "ai intern to the ceo": {
+   "name": "AI Intern to the CEO",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "ashby:cyvl:8bfc4116-b0bb-47f8-bca1-7069a37db328"
+     ],
+     "count": 1
     }
    }
   },
@@ -108,9 +160,11 @@
     "Summer 2027": {
      "first_posted": "2026-09-08",
      "role_ids": [
-      "ashby:allen-control-systems:a7831fef-7125-4c03-b828-5f0472989037"
+      "ashby:allen-control-systems:1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94",
+      "ashby:allen-control-systems:a7831fef-7125-4c03-b828-5f0472989037",
+      "ashby:allen-control-systems:ed5c58a7-6a3c-474b-aa07-43ff2051cb5c"
      ],
-     "count": 1
+     "count": 3
     }
    }
   },
@@ -160,14 +214,32 @@
     },
     "Summer 2027": {
      "first_posted": "2026-05-13",
-     "count": 5,
+     "count": 9,
      "role_ids": [
       "amazon:amazon:10418355",
       "amazon:amazon:10456239",
       "amazon:amazon:10459543",
       "amazon:amazon:10517567",
-      "amazon:amazon:10529525"
+      "amazon:amazon:10529525",
+      "amazon:amazon:10552937",
+      "amazon:amazon:10559746",
+      "amazon:amazon:10559762",
+      "amazon:amazon:10565667"
      ]
+    }
+   }
+  },
+  "american century investments": {
+   "name": "American Century Investments",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "workday:americancentury:/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729",
+      "workday:americancentury:/job/Kansas-City-Missouri/Infrastructure-Automation-Engineer-Intern_R0005750",
+      "workday:americancentury:/job/Kansas-City-Missouri/Software-Developer-Intern_R0005749-1"
+     ],
+     "count": 3
     }
    }
   },
@@ -208,9 +280,10 @@
       "oracle:egug.fa.us2.oraclecloud.com:26012764",
       "oracle:egug.fa.us2.oraclecloud.com:26012781",
       "oracle:egug.fa.us2.oraclecloud.com:26013190",
-      "oracle:egug.fa.us2.oraclecloud.com:26013191"
+      "oracle:egug.fa.us2.oraclecloud.com:26013191",
+      "oracle:egug.fa.us2.oraclecloud.com:26014224"
      ],
-     "count": 32
+     "count": 33
     }
    }
   },
@@ -220,10 +293,11 @@
     "Summer 2027": {
      "first_posted": "2026-08-27",
      "role_ids": [
+      "lever:anavationllc:4a82ae00-30f0-410c-bf3c-f1cdd18739e7",
       "lever:anavationllc:a5c70b6a-2d16-4774-9043-677456614b1b",
       "lever:anavationllc:f7c83978-8510-409c-a5a3-17618511f819"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -232,9 +306,10 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-06-10",
-     "count": 1,
+     "count": 2,
      "role_ids": [
-      "greenhouse:andurilindustries:5148079007"
+      "greenhouse:andurilindustries:5148079007",
+      "greenhouse:andurilindustries:5239083007"
      ]
     }
    }
@@ -298,6 +373,14 @@
       "greenhouse:astranis:4681183006",
       "greenhouse:astranis:4699071006"
      ]
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-22",
+     "role_ids": [
+      "greenhouse:astranis:4705214006",
+      "greenhouse:astranis:4705610006"
+     ],
+     "count": 2
     }
    }
   },
@@ -307,9 +390,11 @@
     "Summer 2027": {
      "first_posted": "2026-09-08",
      "role_ids": [
-      "workday:slihrms:/job/USGAAtlanta2018-Powers-Ferry-Rd/Water-Infrastructure-Engineering-Intern---Summer-2027_R-163480-1"
+      "workday:slihrms:/job/USAZTempe/Data-Scientist-Intern---Summer-2027_R-161183-1",
+      "workday:slihrms:/job/USGAAtlanta2018-Powers-Ferry-Rd/Water-Infrastructure-Engineering-Intern---Summer-2027_R-163480-1",
+      "workday:slihrms:/job/USNVHenderson/Water-Infrastructure-Engineering-Intern---Summer-2027_R-160500-2"
      ],
-     "count": 1
+     "count": 3
     }
    }
   },
@@ -344,9 +429,24 @@
      "first_posted": "2026-08-26",
      "role_ids": [
       "workday:aoins:/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14417",
+      "workday:aoins:/job/Lansing-MI/IT-Document-Automation-Developer-Internship---Summer-2027_R_14471",
+      "workday:aoins:/job/Lansing-MI/IT-Security-Engineer-Internship---Summer-2027_R_14477",
+      "workday:aoins:/job/Lansing-MI/Intelligent-Automation-Developer-Internship---Summer-2027_R_14474",
       "workday:aoins:/job/Lansing-MI/Software-Developer-Internship_R_2121"
      ],
-     "count": 2
+     "count": 5
+    }
+   }
+  },
+  "autozone": {
+   "name": "AutoZone",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-21",
+     "role_ids": [
+      "oracle:egud.fa.us2.oraclecloud.com:155461"
+     ],
+     "count": 1
     }
    }
   },
@@ -431,6 +531,18 @@
       "lever:belvederetrading:cbde47db-c60b-4339-a8f4-a8e4f30505ab"
      ],
      "count": 2
+    }
+   }
+  },
+  "blue cross blue shield of michigan": {
+   "name": "Blue Cross Blue Shield of Michigan",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-28",
+     "role_ids": [
+      "oracle:ejko.fa.us2.oraclecloud.com:14837"
+     ],
+     "count": 1
     }
    }
   },
@@ -524,6 +636,43 @@
     }
    }
   },
+  "bot auto": {
+   "name": "Bot Auto",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-18",
+     "role_ids": [
+      "greenhouse:botauto:5429357008"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "brevan howard": {
+   "name": "Brevan Howard",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "workday:brevanhoward:/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602",
+      "workday:brevanhoward:/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597"
+     ],
+     "count": 2
+    }
+   }
+  },
+  "brown brothers harriman": {
+   "name": "Brown Brothers Harriman",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-19",
+     "role_ids": [
+      "workday:bbh:/job/New-York/XMLNAME-2027-Internal-Audit---Information-Technology---Cybersecurity-Summer-Internship_72899"
+     ],
+     "count": 1
+    }
+   }
+  },
   "brunswick": {
    "name": "Brunswick",
    "cycles": {
@@ -578,12 +727,39 @@
      "role_ids": [
       "workday:caci:/job/Danbury-CT-US/Software-Engineering-Co-op---Spring---Summer-2027_331356-1",
       "workday:caci:/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354",
+      "workday:caci:/job/Florham-Park-NJ-US/Software-Network-Engineering-Intern---Summer-2027_332895",
+      "workday:caci:/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776",
+      "workday:caci:/job/Reston-VA-US/Software-Engineering-Intern---Summer-2027_332041",
       "workday:caci:/job/Sarasota-FL-US/AWS-Cloud-Engineering-Intern---Summer-2027_331437",
       "workday:caci:/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_331359",
       "workday:caci:/job/Sterling-VA-US/DevOps-Software-Engineering-Intern---Summer-2027_331466",
       "workday:caci:/job/Ypsilanti-MI-US/Software-Engineer-Intern---Summer-2027_331648"
      ],
-     "count": 6
+     "count": 9
+    }
+   }
+  },
+  "cai": {
+   "name": "CAI",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-25",
+     "role_ids": [
+      "workday:cai:/job/California/Cybersecurity-Analyst-Intern_R8488"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "cartesian": {
+   "name": "Cartesian",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "greenhouse:cartesiansystems:4408204009"
+     ],
+     "count": 1
     }
    }
   },
@@ -596,6 +772,20 @@
       "workday:cccis:/job/Chicago-Green-St-IL/R-D---Data-Science-Internship-Fall-2026_0014841"
      ],
      "count": 1
+    }
+   }
+  },
+  "cencora": {
+   "name": "Cencora",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-28",
+     "role_ids": [
+      "workday:myhrabc:/job/Conshohocken-PA/AI-Intern_R2613670",
+      "workday:myhrabc:/job/Conshohocken-PA/IT-Software-Development-Intern_R2614039",
+      "workday:myhrabc:/job/Conshohocken-PA/IT-Software-Intern_R2614031"
+     ],
+     "count": 3
     }
    }
   },
@@ -688,9 +878,11 @@
     "Summer 2027": {
      "first_posted": "2026-09-03",
      "role_ids": [
-      "workday:cigna:/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712"
+      "workday:cigna:/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/The-Cigna-Group-s-Technology-Development-Program-----Infrastructure---Cloud-Engineering-Track_26009529",
+      "workday:cigna:/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712",
+      "workday:cigna:/job/TX-Austin-11501-Alterra-Pkwy-STE-500/The-Cigna-Group-s-Technology-Development-Program---AI-Engineering-Track-Summer-Internship_26009535"
      ],
-     "count": 1
+     "count": 3
     }
    }
   },
@@ -761,6 +953,52 @@
     }
    }
   },
+  "corteva": {
+   "name": "Corteva",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-11",
+     "role_ids": [
+      "workday:corteva:/job/Indianapolis-Indiana-United-States/Agentic-AI-Engineer-Intern_248210W"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "costar group": {
+   "name": "CoStar Group",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "workday:costar:/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727",
+      "workday:costar:/job/US-VA-Richmond/Security-Engineer-Intern---Richmond--VA_R39726"
+     ],
+     "count": 2
+    }
+   }
+  },
+  "cox": {
+   "name": "Cox",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "workday:cox:/job/Atlanta-GA/Cybersecurity-Intern---Summer-2027_R202682288",
+      "workday:cox:/job/Atlanta-GA/Data-Scientist-Intern---Summer-2027--Atlanta--GA-_R202682164",
+      "workday:cox:/job/Atlanta-GA/Infrastructure-Automation-Intern---Summer-2027_R202682338",
+      "workday:cox:/job/Atlanta-GA/Infrastructure-Operations-Intern---Summer-2027_R202682357",
+      "workday:cox:/job/Atlanta-GA/Software-Engineering-Intern---Summer-2027--Atlanta--GA-_R202682166",
+      "workday:cox:/job/Austin-TX/Software-Engineering-Intern---Summer-2027--Austin--TX-_R202682168",
+      "workday:cox:/job/Burlington-VT/Software-Engineering-Intern---Summer-2027--Burlington--VT-_R202682172-1",
+      "workday:cox:/job/Draper-UT/Software-Engineering-Intern---Summer-2027--Draper-UT-_R202682169",
+      "workday:cox:/job/Irvine-CA/Software-Engineering-Intern---Summer-2027--Irvine--CA-_R202682173",
+      "workday:cox:/job/Long-Island-NY/Software-Engineering-Intern---Summer-2027--North-Hills--NY-_R202682171-1"
+     ],
+     "count": 10
+    }
+   }
+  },
   "creatify lab": {
    "name": "Creatify Lab",
    "cycles": {
@@ -770,6 +1008,18 @@
      "role_ids": [
       "ashby:creatify:75a1f1ad-13d2-4513-952c-71b6dfcaa84f"
      ]
+    }
+   }
+  },
+  "dandy": {
+   "name": "Dandy",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-30",
+     "role_ids": [
+      "ashby:dandy:d43558e9-8e51-4980-b00d-39275063f099"
+     ],
+     "count": 1
     }
    }
   },
@@ -852,6 +1102,19 @@
      "role_ids": [
       "workday:dmainc:/job/Fort-Wayne-IN/Software-Development-Intern_REQ460"
      ]
+    }
+   }
+  },
+  "doordash": {
+   "name": "DoorDash",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "greenhouse:doordashusa:8171041",
+      "greenhouse:doordashusa:8204111"
+     ],
+     "count": 2
     }
    }
   },
@@ -941,9 +1204,12 @@
     "Summer 2027": {
      "first_posted": "2026-08-10",
      "role_ids": [
-      "greenhouse:dvtrading:4719119005"
+      "greenhouse:dvtrading:4702083005",
+      "greenhouse:dvtrading:4719119005",
+      "greenhouse:dvtrading:4733133005",
+      "greenhouse:dvtrading:4733138005"
      ],
-     "count": 1
+     "count": 4
     }
    }
   },
@@ -959,6 +1225,30 @@
     }
    }
   },
+  "emc insurance": {
+   "name": "EMC Insurance",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "workday:emcins:/job/Iowa/Intern--Data-Science_R6524"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "emerson electric": {
+   "name": "Emerson Electric",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "oracle:hdjq.fa.us2.oraclecloud.com:26010738"
+     ],
+     "count": 1
+    }
+   }
+  },
   "enfos": {
    "name": "ENFOS",
    "cycles": {
@@ -966,6 +1256,18 @@
      "first_posted": "2026-09-04",
      "role_ids": [
       "workable:enfos-inc:CA15908E0A"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "enova": {
+   "name": "Enova",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-29",
+     "role_ids": [
+      "greenhouse:enova:8239619"
      ],
      "count": 1
     }
@@ -1046,6 +1348,20 @@
     }
    }
   },
+  "figma": {
+   "name": "Figma",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "greenhouse:figma:6143238004",
+      "greenhouse:figma:6178851004",
+      "greenhouse:figma:6178857004"
+     ],
+     "count": 3
+    }
+   }
+  },
   "figure": {
    "name": "Figure",
    "cycles": {
@@ -1082,6 +1398,19 @@
       "greenhouse:fiveringsllc:5139668008",
       "greenhouse:fiveringsllc:5349707008"
      ]
+    }
+   }
+  },
+  "flagship pioneering": {
+   "name": "Flagship Pioneering",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "greenhouse:fspco-op012325:8796563002",
+      "greenhouse:fspco-op012325:8796996002"
+     ],
+     "count": 2
     }
    }
   },
@@ -1147,6 +1476,31 @@
     }
    }
   },
+  "g2": {
+   "name": "G2",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-21",
+     "role_ids": [
+      "ashby:g2:64dcc04a-a0e7-493b-b899-dd4c56e561fd"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "gecko robotics": {
+   "name": "Gecko Robotics",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "ashby:gecko-robotics:01138338-ff3c-4982-8ba3-5401386bf082",
+      "ashby:gecko-robotics:c097505b-0a28-4a33-a917-268f463641e8"
+     ],
+     "count": 2
+    }
+   }
+  },
   "gemini": {
    "name": "Gemini",
    "cycles": {
@@ -1165,15 +1519,28 @@
     "Summer 2027": {
      "first_posted": "2026-08-05",
      "role_ids": [
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Data-Science-and-Engineering-Internship_RQ228936",
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939",
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228940",
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228941",
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ229141",
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ229142",
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ229143",
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2",
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Cybersecurity-Associate-Internship_RQ228929-2",
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Generative-AI-Software-Development-Internship_RQ228933-1",
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship_RQ228931-2",
       "workday:gdit:/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1",
       "workday:gdit:/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225456-1",
       "workday:gdit:/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225469-1",
       "workday:gdit:/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1",
       "workday:gdit:/job/USA-VA-Falls-Church---3150-Fairview-Park-Dr-VAS095/GDIT-2027-Summer-AI---ML-Internship_RQ225401",
       "workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-AI-Machine-Learning-Internship--DC-Metro-Area_RQ225912",
-      "workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ226237-1"
+      "workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ226237-1",
+      "workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228404",
+      "workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406"
      ],
-     "count": 7
+     "count": 20
     }
    }
   },
@@ -1211,6 +1578,23 @@
       "workday:globalfoundries:/job/USA---New-York---Malta/Cybersecurity-Intern--Summer-2027-_JR-2604459"
      ],
      "count": 1
+    }
+   }
+  },
+  "gm financial": {
+   "name": "GM financial",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260795",
+      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260804",
+      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260805",
+      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260836",
+      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260839",
+      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260943"
+     ],
+     "count": 6
     }
    }
   },
@@ -1317,9 +1701,10 @@
       "lever:hermeus:445db430-6f81-41cf-847a-56a947afb936",
       "lever:hermeus:555263f6-c5ec-4489-ab07-1aea546b70e7",
       "lever:hermeus:5b08e2df-c9db-4831-aece-67d89e744796",
+      "lever:hermeus:78008094-ca81-4a0c-9a18-93b30f932acd",
       "lever:hermeus:d87ed913-affc-475e-b721-c5b5f11c3c7b"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -1361,9 +1746,11 @@
       "oracle:ibqbjb.fa.ocs.oraclecloud.com:155557",
       "oracle:ibqbjb.fa.ocs.oraclecloud.com:155558",
       "oracle:ibqbjb.fa.ocs.oraclecloud.com:155561",
-      "oracle:ibqbjb.fa.ocs.oraclecloud.com:155562"
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:155562",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:157903",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:158088"
      ],
-     "count": 7
+     "count": 9
     }
    }
   },
@@ -1397,16 +1784,42 @@
     }
    }
   },
+  "hudl": {
+   "name": "Hudl",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "greenhouse:hudl:8114314",
+      "greenhouse:hudl:8155102"
+     ],
+     "count": 2
+    }
+   }
+  },
   "hudson river trading": {
    "name": "Hudson River Trading",
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-13",
-     "count": 2,
+     "count": 3,
      "role_ids": [
       "greenhouse:wehrtyou:7964062",
-      "greenhouse:wehrtyou:8052083"
+      "greenhouse:wehrtyou:8052083",
+      "greenhouse:wehrtyou:8222414"
      ]
+    }
+   }
+  },
+  "hunt oil": {
+   "name": "Hunt Oil Company",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-17",
+     "role_ids": [
+      "oracle:fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com:1067"
+     ],
+     "count": 1
     }
    }
   },
@@ -1435,15 +1848,28 @@
     }
    }
   },
+  "ibotta": {
+   "name": "ibotta",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-11",
+     "role_ids": [
+      "ashby:ibotta:3130669e-16aa-4f63-834d-b83571c8d269"
+     ],
+     "count": 1
+    }
+   }
+  },
   "icf": {
    "name": "ICF",
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-09-07",
      "role_ids": [
+      "workday:icf:/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1",
       "workday:icf:/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1510,6 +1936,18 @@
     }
    }
   },
+  "insulet": {
+   "name": "Insulet Corporation",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-23",
+     "role_ids": [
+      "workday:insulet:/job/San-Diego-California/Intern--DevOps-Engineer--June-August-2027--Onsite-_REQ-2026-18202"
+     ],
+     "count": 1
+    }
+   }
+  },
   "intuitive surgical": {
    "name": "Intuitive Surgical",
    "cycles": {
@@ -1520,6 +1958,18 @@
       "smartrecruiters:Intuitive:744000133458290",
       "smartrecruiters:Intuitive:744000145329669"
      ]
+    }
+   }
+  },
+  "itron": {
+   "name": "Itron",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-29",
+     "role_ids": [
+      "workday:itron:/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2"
+     ],
+     "count": 1
     }
    }
   },
@@ -1573,6 +2023,19 @@
     }
    }
   },
+  "k2 space": {
+   "name": "K2 Space",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "greenhouse:k2spacecorporation:5411920008",
+      "greenhouse:k2spacecorporation:5418727008"
+     ],
+     "count": 2
+    }
+   }
+  },
   "keybank": {
    "name": "KeyBank",
    "cycles": {
@@ -1582,6 +2045,34 @@
       "workday:keybank:/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384"
      ],
      "count": 1
+    }
+   }
+  },
+  "klaviyo": {
+   "name": "Klaviyo",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-11",
+     "role_ids": [
+      "greenhouse:klaviyocampus:7989364003",
+      "greenhouse:klaviyocampus:7999274003",
+      "greenhouse:klaviyocampus:8003260003"
+     ],
+     "count": 3
+    }
+   }
+  },
+  "lawrence livermore national laboratory llnl": {
+   "name": "Lawrence Livermore National Laboratory (LLNL)",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "smartrecruiters:LLNL:3743990015289136",
+      "smartrecruiters:LLNL:3743990015408206",
+      "smartrecruiters:LLNL:3743990015737586"
+     ],
+     "count": 3
     }
    }
   },
@@ -1629,6 +2120,21 @@
     }
    }
   },
+  "lyft": {
+   "name": "Lyft",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-11",
+     "role_ids": [
+      "greenhouse:lyft:8767726002",
+      "greenhouse:lyft:8796124002",
+      "greenhouse:lyft:8802198002",
+      "greenhouse:lyft:8843341002"
+     ],
+     "count": 4
+    }
+   }
+  },
   "manulife financial": {
    "name": "Manulife Financial",
    "cycles": {
@@ -1648,9 +2154,12 @@
     "Summer 2027": {
      "first_posted": "2026-09-04",
      "role_ids": [
-      "workday:marvell:/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513"
+      "workday:marvell:/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760-1",
+      "workday:marvell:/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848-1",
+      "workday:marvell:/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513",
+      "workday:marvell:/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2603860-1"
      ],
-     "count": 1
+     "count": 4
     }
    }
   },
@@ -1741,10 +2250,11 @@
       "workday:msd:/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861",
       "workday:msd:/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Medical-Data-Scientist---Intern_R412403",
       "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---AI-ML-Computational-Toxicology---Intern_R412871",
+      "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Data-Science---Intern_R413312",
       "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Laboratory-Operations-AI---Digital-Transformation---Intern_R413048",
       "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Standardizing-Automation-Scripting-Practices-Through-AI-Enabled-Knowledge-Repository---Intern_R412939"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -1778,11 +2288,19 @@
    "cycles": {
     "Fall 2026": {
      "first_posted": "2026-07-16",
-     "count": 2,
+     "count": 3,
      "role_ids": [
+      "workday:moog:/job/Buffalo-NY/Intern--Artificial-Intelligence_R-26-20288",
       "workday:moog:/job/Buffalo-NY/Intern--IT-Computer-Science---Data-Analytics_R-26-17145",
       "workday:moog:/job/Buffalo-NY/Intern--IT-Computer-Science_R-26-19378"
      ]
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "workday:moog:/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1"
+     ],
+     "count": 1
     }
    }
   },
@@ -1813,12 +2331,66 @@
      "first_posted": "2026-08-14",
      "role_ids": [
       "workday:motorolasolutions:/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740",
+      "workday:motorolasolutions:/job/Chicago-IL/Cyber-Security---2027-Summer-Internship--Chicago-Hybrid-_R68369",
       "workday:motorolasolutions:/job/Chicago-IL/Software-Engineering-Intern---Summer-2027_R68388",
       "workday:motorolasolutions:/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1",
       "workday:motorolasolutions:/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R68363",
+      "workday:motorolasolutions:/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734",
+      "workday:motorolasolutions:/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136",
+      "workday:motorolasolutions:/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125",
       "workday:motorolasolutions:/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---2027-Co-op_R67782"
      ],
-     "count": 5
+     "count": 9
+    }
+   }
+  },
+  "muon space": {
+   "name": "Muon Space",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-29",
+     "role_ids": [
+      "greenhouse:muonspace:5247725007",
+      "greenhouse:muonspace:5252680007"
+     ],
+     "count": 2
+    }
+   }
+  },
+  "nasdaq": {
+   "name": "Nasdaq",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "workday:nasdaq:/job/GA---Glenridge-Point/Software-Developer--Engineer-Intern---2027-Summer-Internship_R0026972"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "national information solutions cooperative nisc": {
+   "name": "National Information Solutions Cooperative (NISC)",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "greenhouse:testnisc:8191898",
+      "greenhouse:testnisc:8191987"
+     ],
+     "count": 2
+    }
+   }
+  },
+  "national life": {
+   "name": "National Life",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-29",
+     "role_ids": [
+      "greenhouse:nationallifeinsurancecompany:4403876009"
+     ],
+     "count": 1
     }
    }
   },
@@ -1829,6 +2401,18 @@
      "first_posted": "2026-09-03",
      "role_ids": [
       "lever:neighbor:7d66629f-3f4b-41ee-a324-fe0154e13c46"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "nelnet": {
+   "name": "Nelnet",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-28",
+     "role_ids": [
+      "workday:nelnet:/job/Lincoln-NE/Intern---Software-Engineer---New-Ventures---Starting-Summer-2026_R23098"
      ],
      "count": 1
     }
@@ -1864,7 +2448,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 12,
+     "count": 19,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247483",
@@ -1876,8 +2460,15 @@
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378",
+      "workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530",
+      "workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196",
+      "workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Embedded-Software-Engineer-Intern---Rolling-Meadows-IL_R10252790",
+      "workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Digital-Intern---Rolling-Meadows-IL_R10252812",
+      "workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Engineer-Intern---Rolling-Meadows-IL_R10253772",
       "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
-      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842"
+      "workday:ngc:/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842",
+      "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Software-Engineering-Intern-Dulles-VA_R10253731"
      ]
     },
     "Fall 2026": {
@@ -1928,6 +2519,18 @@
      "first_posted": "2026-08-14",
      "role_ids": [
       "ashby:notion:3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "nov": {
+   "name": "NOV",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-15",
+     "role_ids": [
+      "oracle:egay.fa.us6.oraclecloud.com:44449"
      ],
      "count": 1
     }
@@ -2031,9 +2634,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-31",
      "role_ids": [
-      "workday:oshkoshcorporation:/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Software--Summer-2026-_R49786"
+      "workday:oshkoshcorporation:/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Software--Summer-2026-_R49786",
+      "workday:oshkoshcorporation:/job/McConnellsburg-Pennsylvania-United-States/Robotic-Programming-Welding-Intern--Summer-2027-_R49598"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2061,16 +2665,43 @@
     }
    }
   },
+  "perchwell": {
+   "name": "Perchwell",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-29",
+     "role_ids": [
+      "ashby:perchwell:194eec78-26db-4d8e-850f-a99ea2733e9f"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "perpay": {
+   "name": "Perpay",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2023-09-12",
+     "role_ids": [
+      "greenhouse:perpay:4076978007",
+      "greenhouse:perpay:4076988007"
+     ],
+     "count": 2
+    }
+   }
+  },
   "philips": {
    "name": "Philips",
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-08-20",
      "role_ids": [
+      "workday:philips:/job/Bothell-Washington-United-States/Intern---Embedded-Systems-Test-Automation-Engineer---Bothell--WA---Summer-2027_592074",
+      "workday:philips:/job/Nashville-Tennessee-United-States/Intern--AI-Business-Operations-Nashville--TN-Summer-2027_590986",
       "workday:philips:/job/Plymouth-Minnesota-United-States/Graduate-Level-Co-op---Data-Scientist---Plymouth--MN---Summer-2027_590567",
       "workday:philips:/job/Plymouth-Minnesota-United-States/Intern---Data-AI-ML-Engineering---Plymouth--MN---Summer-2027_590404"
      ],
-     "count": 2
+     "count": 4
     },
     "Fall 2026": {
      "first_posted": "2026-09-02",
@@ -2106,6 +2737,18 @@
     }
    }
   },
+  "poet": {
+   "name": "POET",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-30",
+     "role_ids": [
+      "workday:poet:/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "point72": {
    "name": "Point72",
    "cycles": {
@@ -2115,6 +2758,23 @@
       "greenhouse:point72:7297642002"
      ],
      "count": 1
+    }
+   }
+  },
+  "q2": {
+   "name": "Q2",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-15",
+     "role_ids": [
+      "workday:q2ebanking:/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12796",
+      "workday:q2ebanking:/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12797",
+      "workday:q2ebanking:/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12794",
+      "workday:q2ebanking:/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12799",
+      "workday:q2ebanking:/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12800",
+      "workday:q2ebanking:/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12798"
+     ],
+     "count": 6
     }
    }
   },
@@ -2139,6 +2799,18 @@
      "role_ids": [
       "ashby:quadrillion-labs:a4acc44c-31ce-41a0-ab44-2500487b4d05"
      ]
+    }
+   }
+  },
+  "quera computing": {
+   "name": "QuEra Computing",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-27",
+     "role_ids": [
+      "greenhouse:queracomputinginc:5435902008"
+     ],
+     "count": 1
     }
    }
   },
@@ -2178,6 +2850,19 @@
     }
    }
   },
+  "relay": {
+   "name": "Relay",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "greenhouse:relaypro:8176774",
+      "greenhouse:relaypro:8180836"
+     ],
+     "count": 2
+    }
+   }
+  },
   "reliable robotics": {
    "name": "Reliable Robotics",
    "cycles": {
@@ -2197,6 +2882,13 @@
      "first_posted": "2026-07-22",
      "role_ids": [
       "greenhouse:rendezvousrobotics:4328555009"
+     ],
+     "count": 1
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "greenhouse:rendezvousrobotics:4408590009"
      ],
      "count": 1
     }
@@ -2220,9 +2912,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-08",
      "role_ids": [
+      "greenhouse:rfsmart:5407206008",
       "greenhouse:rfsmart:5409034008"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2235,6 +2928,22 @@
       "ashby:rivet:4e02461a-9f6c-4d3c-a511-6d54f31999bc"
      ],
      "count": 1
+    }
+   }
+  },
+  "robinhood": {
+   "name": "Robinhood",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "greenhouse:robinhood:8123225",
+      "greenhouse:robinhood:8142959",
+      "greenhouse:robinhood:8142961",
+      "greenhouse:robinhood:8142963",
+      "greenhouse:robinhood:8241738"
+     ],
+     "count": 5
     }
    }
   },
@@ -2259,6 +2968,13 @@
      "role_ids": [
       "greenhouse:rocketlab:7736776003"
      ]
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "greenhouse:rocketlab:7989722003"
+     ],
+     "count": 1
     }
    }
   },
@@ -2281,11 +2997,13 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871278",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871442",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Engineering-Intern--Summer-2027-_01871444",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01867487",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01876388",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-179--855-35Th-St-NE--BLDG-179/Software-Engineering-Intern--Summer-Fall-2027-_01873006",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-192--1205-Continental-Place-NE--BLDG-192/Software-Engineering-Intern--Summer-2027-_01867324"
      ],
-     "count": 16
+     "count": 18
     }
    }
   },
@@ -2295,10 +3013,11 @@
     "Summer 2027": {
      "first_posted": "2026-09-03",
      "role_ids": [
+      "workday:saabusa:/job/East-Syracuse-NY-Collamer/Software-Engineer-Co-Op--Summer-2027-_R-03264-1",
       "workday:saabusa:/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Spring---Summer-2027-_R-03240-1",
       "workday:saabusa:/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Summer-2027-_R-03237-1"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2350,6 +3069,13 @@
       "ashby:saronic:1c74957f-0895-415b-9324-08b0994747d7",
       "ashby:saronic:c95c2e3a-4c67-47b0-a03d-0e0317ac11a3"
      ]
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "ashby:saronic:60afb634-5515-4347-824a-3816735541c2"
+     ],
+     "count": 1
     }
    }
   },
@@ -2373,9 +3099,34 @@
      "role_ids": [
       "greenhouse:schonfeld:8171692",
       "greenhouse:schonfeld:8171696",
+      "greenhouse:schonfeld:8171699",
       "greenhouse:schonfeld:8180089"
      ],
-     "count": 3
+     "count": 4
+    }
+   }
+  },
+  "schroders": {
+   "name": "Schroders",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-18",
+     "role_ids": [
+      "oracle:ekbq.fa.em2.oraclecloud.com:2061"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "securian financial group": {
+   "name": "Securian Financial Group",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "workday:hq:/job/Saint-Paul-MN-Campus/Data-Science-and-Advanced-Analytics-Internship---Summer-2027_R-010894"
+     ],
+     "count": 1
     }
    }
   },
@@ -2416,6 +3167,30 @@
     }
    }
   },
+  "shield ai": {
+   "name": "Shield AI",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "lever:shieldai:8c850c75-081d-4d09-bebf-096379a93010"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "sierra": {
+   "name": "Sierra",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "ashby:sierra:34b31b67-268c-4270-b48f-72e59064c96e"
+     ],
+     "count": 1
+    }
+   }
+  },
   "sierra nevada": {
    "name": "Sierra Nevada Corporation",
    "cycles": {
@@ -2430,6 +3205,27 @@
       "workday:snc:/job/Sparks-NV/Software-Engineering-Intern--Summer-2027-_R0030760"
      ],
      "count": 6
+    },
+    "Fall 2026": {
+     "first_posted": "2026-09-30",
+     "role_ids": [
+      "workday:snc:/job/Lone-Tree-CO/Systems-Security-Engineer-I--For-2026-Interns-Only-_R0030608",
+      "workday:snc:/job/Plano-TX/Software-Engineer-I--For-2026-Interns-Only-_R0030584"
+     ],
+     "count": 2
+    }
+   }
+  },
+  "singlestore": {
+   "name": "SingleStore",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "greenhouse:singlestore:8154399",
+      "greenhouse:singlestore:8205514"
+     ],
+     "count": 2
     }
    }
   },
@@ -2492,6 +3288,18 @@
     }
    }
   },
+  "solar turbines": {
+   "name": "Solar Turbines",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-25",
+     "role_ids": [
+      "workday:cat:/job/San-Diego-California/XMLNAME-2027-Internship--Gas-Compressor-Data-Analyst_R0000375786"
+     ],
+     "count": 1
+    }
+   }
+  },
   "solopulse": {
    "name": "SoloPulse",
    "cycles": {
@@ -2535,9 +3343,21 @@
      "first_posted": "2026-08-28",
      "role_ids": [
       "oracle:hdhl.fa.us6.oraclecloud.com:1007361",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007589"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007589",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007774",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007776",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007777",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007804",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007837",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007876",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007905",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007919",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007956",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008052",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008053",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008055"
      ],
-     "count": 2
+     "count": 14
     },
     "Fall 2026": {
      "first_posted": "2026-09-02",
@@ -2626,6 +3446,17 @@
       "workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2026-Fall-Co-op---Global-Technology-Solutions---Data-Engineer_R_1495653",
       "workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2026-Fall-Co-op---Global-Technology-Solutions---Software-Engineer--SWE-_R_1495659"
      ]
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-13",
+     "role_ids": [
+      "workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cloud-DevOps_R_1510799",
+      "workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cyber-Security_R_1510795",
+      "workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Analyst_R_1510800",
+      "workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Engineer_R_1510797",
+      "workday:td:/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1"
+     ],
+     "count": 5
     }
    }
   },
@@ -2699,6 +3530,19 @@
      "role_ids": [
       "workable:tmeic-corporation-americas:FD4C9770FF"
      ]
+    }
+   }
+  },
+  "toro": {
+   "name": "The Toro Company",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "workday:ttc:/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114",
+      "workday:ttc:/job/Perry-OK/Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183"
+     ],
+     "count": 2
     }
    }
   },
@@ -2845,6 +3689,19 @@
     }
    }
   },
+  "verizon communications": {
+   "name": "Verizon Communications",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-29",
+     "role_ids": [
+      "workday:verizon:/job/Irving-Texas/Irving-V-Teamer-for-a-Day--Verizon-Data-Science-Summer-2027-Internship_R-1101386",
+      "workday:verizon:/job/Irving-Texas/Verizon-Network-and-Technology--Data-Science-Summer-2027-Internship_R-1101384"
+     ],
+     "count": 2
+    }
+   }
+  },
   "verkada": {
    "name": "Verkada",
    "cycles": {
@@ -2893,6 +3750,18 @@
     }
    }
   },
+  "veterans united": {
+   "name": "Veterans United",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-28",
+     "role_ids": [
+      "workday:veteransunited:/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249"
+     ],
+     "count": 1
+    }
+   }
+  },
   "virtu financial": {
    "name": "Virtu Financial",
    "cycles": {
@@ -2924,10 +3793,11 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-06-11",
-     "count": 2,
+     "count": 3,
      "role_ids": [
       "greenhouse:voloridgeinvestmentmanagement:4224862009",
-      "greenhouse:voloridgeinvestmentmanagement:4226247009"
+      "greenhouse:voloridgeinvestmentmanagement:4226247009",
+      "greenhouse:voloridgeinvestmentmanagement:4405530009"
      ]
     }
    }
@@ -2991,9 +3861,13 @@
      "first_posted": "2026-09-03",
      "role_ids": [
       "greenhouse:waymo:8174099",
-      "greenhouse:waymo:8174504"
+      "greenhouse:waymo:8174504",
+      "greenhouse:waymo:8198218",
+      "greenhouse:waymo:8221198",
+      "greenhouse:waymo:8224900",
+      "greenhouse:waymo:8238525"
      ],
-     "count": 2
+     "count": 6
     }
    }
   },
@@ -3082,7 +3956,22 @@
      ]
     }
    }
+  },
+  "zurn elkay water solutions": {
+   "name": "Zurn Elkay Water Solutions",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-25",
+     "role_ids": [
+      "workday:elkay:/job/Milwaukee-WI/Embedded-Firmware-Intern--Summer-2027-_REQ-020150-1",
+      "workday:elkay:/job/Milwaukee-WI/Embedded-Hardware-Intern--Summer-2027-_REQ-020151",
+      "workday:elkay:/job/Milwaukee-WI/IT-Infrastructure-Intern--Summer-2027-_REQ-020160",
+      "workday:elkay:/job/Milwaukee-WI/IT-Infrastructure-Intern--Summer-2027-_REQ-020162"
+     ],
+     "count": 4
+    }
+   }
   }
  },
- "updated_at": "2026-09-08T23:13:29Z"
+ "updated_at": "2026-10-01T02:27:35Z"
 }

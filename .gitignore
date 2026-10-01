@@ -28,3 +28,14 @@ output/
 outputs/
 tmp/
 work/
+
+# Personal additions (local-only): email credentials, run logs, shortlist state
+email_config.json
+logs/
+data/shortlist_seen.json
+data/shortlist_new.json
+data/shortlist_latest.json
+shortlists/
+data/applied_log.json
+data/today20.json
+data/term_cache.json

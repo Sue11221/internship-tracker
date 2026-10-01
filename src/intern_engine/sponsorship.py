@@ -6,7 +6,8 @@ actually write), not keyword soup — a wrong "no sponsorship" flag steers someo
 away from a real opportunity, so precision beats recall here.
 
 Values (strictest wins):
-  citizens-only   — U.S. citizenship / clearance / ITAR-style "U.S. persons" only
+  citizens-only   — U.S. citizenship or a security clearance (green card NOT enough)
+  us-persons      — "citizens or permanent residents" / ITAR "U.S. persons" (green card OK)
   no-sponsorship  — the employer says it will not sponsor a work visa
   offers          — the employer explicitly says it sponsors
   unknown         — the text says nothing conclusive (most postings)
@@ -21,21 +22,19 @@ from html import unescape
 # re-reads a posting whose stored verdict came from an older version, so
 # classifier improvements propagate to the whole live list instead of only to
 # roles discovered after the change.
-VERSION = 4
+VERSION = 5
 
-# ITAR / export control and security clearances require citizenship (or at
-# minimum a green card), which excludes F-1/OPT candidates the same way.
+# LOCAL CHANGE (green-card holder): the upstream rule lumped two different
+# requirements under "citizens-only". They are split here:
+#   citizens-only  U.S. citizenship itself, or a security clearance (needs citizenship)
+#   us-persons     "citizens or permanent residents", ITAR / export-control
+#                  "U.S. persons" -- a green card satisfies these
 _CITIZENS_RE = re.compile(
     r"("
     r"(?:u\.?s\.?|united states)\s+citizen(?:ship)?\s+(?:is\s+)?(?:required|only|mandatory)"
     r"|must\s+be\s+(?:a\s+|an\s+)?(?:u\.?s\.?|united states)\s+citizen"
     r"|citizenship\s*:\s*(?:u\.?s\.?|united states|required)"
     r"|only\s+(?:u\.?s\.?|united states)\s+citizens"
-    r"|(?:u\.?s\.?|united states)\s+citizens?\s+(?:or|and)\s+(?:lawful\s+)?(?:permanent\s+residents?|green\s?card)"
-    r"|(?:subject\s+to|governed\s+by|must\s+(?:meet|comply\s+with))\s+itar\b"
-    r"|\bitar\s+(?:requirements?|regulations?|restrictions?)\s+(?:apply|are\s+required)"
-    r"|export.{0,20}(?:control|compliance).{0,60}u\.?s\.?\s+person"
-    r"|u\.?s\.?\s+persons?\s+(?:status\s+)?(?:is\s+)?required"
     r"|(?:need|require|must\s+(?:have|hold|possess))[^.!?;]{0,40}"
     r"(?:security|government|ts/?sci|top[\s-]?secret|secret)\s+clearance"
     r"|(?:ability|eligible|required)\s+to\s+(?:obtain|maintain)[^.!?;]{0,25}"
@@ -44,7 +43,33 @@ _CITIZENS_RE = re.compile(
     r"top[\s-]?secret|secret)\s+clearance"
     r"|(?:security|government|ts/?sci|top[\s-]?secret|secret)\s+clearance\s+"
     r"(?:is\s+)?(?:required|mandatory)"
+    # LOCAL: wider clearance wording ("able to obtain a Secret clearance",
+    # "obtain and maintain a government security clearance", "eligible for ...").
+    r"|(?:able|ability|eligible|eligibility|required)\s+to\s+(?:obtain|maintain|hold|receive|get|possess)"
+    r"[^.!?;]{0,70}clearance"
+    r"|eligib(?:le|ility)\s+for\s+[^.!?;]{0,40}clearance"
+    r"|(?:obtain|maintain|hold|possess)\s+[^.!?;]{0,50}"
+    r"(?:security|ts/?sci|top[\s-]?secret|secret|dod)\s+clearance"
     r")",
+    re.IGNORECASE,
+)
+
+_US_PERSONS_RE = re.compile(
+    r"("
+    r"(?:u\.?s\.?|united states)\s+citizens?(?:hip)?\s*(?:,|/|or|and)\s*(?:a\s+)?(?:lawful\s+|legal\s+)?"
+    r"(?:permanent\s+residen|green\s?card)"
+    r"|(?:subject\s+to|governed\s+by|must\s+(?:meet|comply\s+with))\s+itar\b"
+    r"|\bitar\s+(?:requirements?|regulations?|restrictions?)\s+(?:apply|are\s+required)"
+    r"|export.{0,20}(?:control|compliance).{0,60}u\.?s\.?\s+person"
+    r"|u\.?s\.?\s+persons?\s+(?:status\s+)?(?:is\s+)?required"
+    r")",
+    re.IGNORECASE,
+)
+
+# "must be a U.S. citizen or permanent resident": the citizen phrase is followed
+# by an alternative a green card satisfies, so it is not a citizenship-only rule.
+_PR_ALTERNATIVE_RE = re.compile(
+    r"^[^.!?;]{0,60}?(?:permanent\s+residen|green\s?card|lawful\s+residen|u\.?s\.?\s+person)",
     re.IGNORECASE,
 )
 
@@ -135,17 +160,33 @@ def _has_affirmative(pattern: re.Pattern, text: str) -> bool:
     return False
 
 
+def _citizens_only(text: str) -> bool:
+    """True when the text demands citizenship or a clearance with no green-card alternative."""
+    for match in _CITIZENS_RE.finditer(text):
+        left = text[max(0, match.start() - 45):match.start()]
+        if _NEGATION_BEFORE_RE.search(left):
+            continue
+        if _NEGATION_WITHIN_RE.search(match.group(0)):
+            continue
+        if "clearance" not in match.group(0).lower() and _PR_ALTERNATIVE_RE.search(text[match.end():match.end() + 90]):
+            continue
+        return True
+    return False
+
+
 def classify(text: str | None) -> str:
     """Classify one posting's text. Strictest verdict wins.
 
-    citizens-only beats no-sponsorship (it also excludes green-card holders),
-    and both beat an "offers" phrase elsewhere in the same posting.
+    citizens-only beats us-persons (green card accepted), which beats
+    no-sponsorship, and all beat an "offers" phrase elsewhere in the posting.
     """
     if not text:
         return "unknown"
     plain = strip_html(text)
-    if _has_affirmative(_CITIZENS_RE, plain):
+    if _citizens_only(plain):
         return "citizens-only"
+    if _has_affirmative(_US_PERSONS_RE, plain):
+        return "us-persons"
     if _NO_SPONSOR_RE.search(plain):
         return "no-sponsorship"
     if _has_affirmative(_OFFERS_RE, plain):
